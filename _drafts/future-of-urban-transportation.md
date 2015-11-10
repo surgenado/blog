@@ -3,7 +3,7 @@ layout: post
 title:  "The Bleak Future of the Urban Transportation Market"
 date:   2015-11-05 13:40:55 -0800
 categories: markets
-published: false
+published: true
 ---
 #### If you haven't yet, please read [The Evolution of the Urban Transportation Market](urban-transportation.html) for context.
 

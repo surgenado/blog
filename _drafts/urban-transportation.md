@@ -3,7 +3,7 @@ layout: post
 title:  "The Evolution of the Urban Transportation Market"
 date:   2015-11-05 13:30:55 -0800
 categories: markets
-published: false
+published: true
 ---
 #### Click [here](market-dynamics.html) for a discussion on the basic mechanics of supply and demand.
 
