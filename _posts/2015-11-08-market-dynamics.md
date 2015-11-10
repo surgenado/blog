@@ -1,61 +1,68 @@
 ---
 layout: post
 title:  "The mechanics of variable pricing in networked markets"
-date:   2015-11-08 13:20:55 -0800
+date:   2015-11-05 13:20:55 -0800
 categories: markets
+published: true
 ---
-### Why should you understand this?
+## Why is this important?
+1. Most variable priced networked markets are privately owned and as a result the mechanics are opaque.
+2. Transactions are conducted on the trust that the transaction occurred at a fair market price.
+3. These networks are a growing sector of the economy.
+1. These types of models are used by companies in the on-demand economy to price their services and determine wages required to maintain a sufficient workforce supply.
 
-2. Individual transactions are conducted blind, relying on the trust that the the transaction price was honestly set at rates governed by free market dynamics.
-1. This is a discussion of those marketplaces and all potential dynamics.
-1. These are the models used by companies in the on-demand economy to price their services and determine wages required to maintain a sufficient workforce supply.
+## This discussion covers the forces governing these marketplaces and the dynamics of their interaction.
+3. How those dynamics affect pricing.
+4. How those dynamics affect the earnings of suppliers in those marketplaces
 
-#### Caveats
-3. Supply is relative to demand and vice versa
+## Caveats
+3. These graphs are crude approximations of market dynamics, the curves may be steeper or flatter depending on the market.
+2. Supply is relative to demand and vice versa
 2. Price is relative to quantity and vice versa
-1. This is a theoretical discussion
 
 ***
 
-## Here's the graph most commonly used to tout the benefits of inexhaustible supply provided by a variable pricing mechanism.
+## This simple model is commonly used to explain the benefits of variable pricing mechanisms.
 ![Simple Supply and Demand](/blog/img/start.png){: .center-image }
 
-### Simplified marketplace dynamics
+### Primary benefit: demand sensitive pricing enables an inexhaustible supply
+
+## Simplified marketplace dynamics
 1. Demand is desire to buy at a given price.
 2. Supply is willingness to sell at a given price.
 3. When desire to buy and willingness to sell are at an equal price, a transaction occurs.
-4. When supply has been exhausted by demand, increasing the price incentivizes additional supply.
-5. Conversely demand generated at a lower price is dis-incentivized at a higher price.
+4. When currently priced supply has been exhausted by demand, increasing the price incentivizes additional supply.
+5. Conversely, a percentage of demand generated at lower prices will be dis-incentivized at a higher price, reducing demand.
 
-### This model is massively simplified, it describes an fully open and transparent commodity marketplace where the only friction to transaction is price.
+## This is a simplified model, it describes an open and transparent commodity marketplace where the only friction to transaction is price.
 
 ***
 
-## How does supply and demand work in a more complicated marketplace? Like how does the modern transportation ecosystem work?
+## Real world marketplaces are more complex and need and expanded model to describe the additional forces involved.
 
-### It's complicated so we're going to start with a model of a single transportation network.
+### Here is a model of a single transportation network.
 ![Transportation Network Supply and Demand](/blog/img/tnc.png){: .center-image }
 
-#### Simplified Transportation Network
+## Single Transportation Network Model
 1. P1: The base fare: Adequate supply for typical demand.
 2. P2: First price multiplier: Triggered by either an increase in demand or a reduction in supply.
 3. P3. Second price multiplier: Triggered by simultaneous increase in demand and a reduction in supply.
 4. P4. Third price multiplier: Displayed by the transportation network management to disincentives demand and incentivize supply.
 
-###  Additional supply curve added because the availability of transportation is subject to variables other than price. There events of mass attendance `concerts` and there are constrictions of availability. `natural disasters`
+###  Additional supply curve demonstrates the impact on the system when supply is affected independently of demand. Demand can be increased by events of mass attendance `concerts` while supply can be constricted by reductions in mobility. `natural disasters`
 
 ***
 
-## Now lets show a simplified transportation network with the market forces applied.
+## These are the market forces present in a single transportation network.
 
 ![Transportation Network Market Forces](/blog/img/tnc-forces.png){: .center-image }
 
-#### Actions Generating Transportation Network Market Forces
+### Actions Generating Transportation Network Market Forces
 1. Red Arrows: Passengers refusing to pay higher prices
 2. Yellow Arrows: Passengers willing to pay higher prices
 3. Green Arrows: Higher prices incentivizing drivers to work.
 
-#### Effect of Transportation Network Market Forces on Price
+### Effect of Transportation Network Market Forces on Price
 1. Red Arrows: Price reduction.
 2. Yellow Arrows: Price increase.
 3. Green Arrows: Price reduction.

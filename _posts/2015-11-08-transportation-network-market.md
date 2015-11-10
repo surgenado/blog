@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Transportation Network Market Dynamics"
-date:   2015-11-08 13:20:55 -0800
+title:  "The market dynamics of transportation networks"
+date:   2015-11-05 13:20:55 -0800
 categories: markets
+published: true
 ---
 
-### For a discussion on the mechanics of variable pricing in networked markets Read <><>
+#### A discussion on the mechanics of variable pricing in networked markets is available [here](market-dynamics.html)
 
-### Starting with a model of a single transportation network.
+## To model the dynamics of the transportation network market, we'll start with a model of a single transportation network.
 ![Transportation Network Supply and Demand](/blog/img/tnc.png){: .center-image }
 
 #### Simplified Transportation Network
@@ -20,7 +21,7 @@ categories: markets
 
 ***
 
-## Now lets show a simplified transportation network with the market forces applied.
+## Now lets show a single transportation network with the market forces applied.
 
 ![Transportation Network Market Forces](/blog/img/tnc-forces.png){: .center-image }
 
@@ -36,7 +37,7 @@ categories: markets
 
 ***
 
-##  On to the Transportation Network Market.
+##  And now the full Transportation Network Market.
 
 ![Transportation Network Market](/blog/img/tnc_market.png){: .center-image }
 
@@ -47,7 +48,7 @@ categories: markets
 
 ***
 
-## And now the Transportation Network Market with Market Forces.
+## And the Transportation Network Market with Market Forces.
 
 ![Transportation Network Market](/blog/img/tnc_market-forces.png){: .center-image }
 
