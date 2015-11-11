@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Is there any hope for workers in the future of Urban Transportation?"
+title:  "Is there any hope for the driver's living wage?"
 date:   2015-11-05 14:20:55 -0800
 categories: markets
 published: true
@@ -13,25 +13,22 @@ published: true
 
 ***
 
-### Supply inefficiencies are seen from time to time such as during major storms, and the walk-off strike over the weekend of October 18th 2015.
+### Supply inefficiencies have been seen from time to time usually occurring from natural disasters but have only been used in protest a few times such as the walk-off strike held over the weekend of October 18th 2015.
 
 ## What does this tell us?
 
-2. While the pricing algorithm adequately manages increases in demand.
-3. Reductions in supply must be managed by the transportation network management.
+2. The pricing algorithm adequately manages increases in demand.
 1. The price multiplication algorithm has been publicly defended as not differentiating between reduced supply and increased demand.
+3. Reductions in supply must be managed by the transportation network management.
 
 ## How is this useful?
 
 ***
 
-### Here are normal TNC market forces.
+### A transportation network operating in normal conditions.
 
 ![Normal Transportation Network Forces](/blog/img/TNCmarketmodel.png){: .center-image }
 
-### And this is how supply inefficiencies acts against those forces.
-
-![Supply Disrupted Transportation Network Forces](/blog/img/surgenado.png){: .center-image }
 
 ## During normal conditions.
 2. The Yellow arrows of demand fuel increased pricing.
@@ -39,12 +36,20 @@ published: true
 2. Creating a virtuous cycle of increased supply.
 3. Decreasing the price.
 
+***
+
+### A transportation network operating in supply restricted conditions.
+
+![Supply Restricted Transportation Network Forces](/blog/img/TNCmarketmodel-supply-restricted.png){: .center-image }
+
 ## During supply restricted conditions.
 1. The blue arrows of reduced supply impart pressure on the yellow arrows of demand.
 2. The Yellow arrows of demand fuel increased pricing.
 3. Fueling the Green arrows attracted supply.
 2. Creating a virtuous cycle of increased supply.
 3. Decreasing the price.
+
+![Sustained Supply Restricted Transportation Network Forces](/blog/img/surgenado1.png){: .center-image }
 
 ## If a restricted of supply can be maintained...
 1. The Blue arrows of reduced supply impart pressure on the yellow arrows of demand.
