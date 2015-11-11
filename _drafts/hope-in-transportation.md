@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Is there any hope for the driver's living wage?"
+title:  "Is there any way to improve the situation for driver in the transportation network ?"
 date:   2015-11-05 14:20:55 -0800
 categories: markets
 published: true
@@ -61,8 +61,14 @@ published: true
 
 ***
 
-## All nice and good, but as the strike on October 18th proved, systematic logoffs are impossible for a distributed work force to coordinate.
+## We just need a way to effectively [coordinate](coordinating-action.html).
+
+{% youtube sUTt0LMhyas %}
+
+### Cute, but as the strike on October 18th showed, systematic logoffs have proven hard for a distributed work force to coordinate.
 
 ## Hard, yes. Impossible, no.
 
-## We just need a way to effectively [coordinate](coordination.html).
+## Introducing [Surgenado](http://www.surgenado.com)
+
+## The algorithm that works for drivers.
