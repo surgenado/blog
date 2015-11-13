@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Bleak Future of the Urban Transportation Market"
+title:  "A Dystopian View of the Future of Transportation"
 date:   2015-11-05 13:40:55 -0800
 categories: markets
 published: true

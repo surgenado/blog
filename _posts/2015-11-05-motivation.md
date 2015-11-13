@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The challenges of improving free market labor conditions."
+title:  "There is a difference between a market and a human"
 date:   2015-11-05 14:30:55 -0800
 categories: markets
 published: true
@@ -9,16 +9,17 @@ published: true
 
 ![Simple Supply and Demand](/blog/img/start.png){: .center-image }
 
+## But what about the effect of price decreases on "the supply"?
 
-## But what about the effect of price decreases on supply?
+1. The above graph is a simple commodities market graph.
+1. It Describes the motives of businesses.
+2. If the on-demand economy had been virally grown that might be an applicable graph.
+2. But in the on-demand economy sign-on bonuses are huge incentive to create conditions of oversupply.
+3. Oversupply with the goal of reducing pricing.
 
-1. The above graph is a commodities market graph.
-1. In such a market, suppliers are motivated to sell more on P2 then they would at P1, and hold back supply if the price drops below P1.
-2. In the on-demand economy sign on bonuses are incentivizing additional humans to enter the market increasing supply with the goal of reducing pricing.
-3. What effect does a decrease in market price have on human behavior?
+## What is the human cost?
+3. What effect does a decrease in market price have on that human?
 4. Is it the same as traditional commodities market?
-
-## What is the human factor? How will a human deal with the irritation of the reduction in price for his service?
 
 ###  Humans can handle irritations two ways:
 1. Accommodate it.

@@ -5,16 +5,29 @@ date:   2015-11-05 14:30:55 -0800
 categories: markets
 published: true
 ---
-[Supply and Demand](https://en.wikipedia.org/wiki/Supply_and_demand)
-[Supply and Demand](http://www.laits.utexas.edu/~anorman/05/qq2.html)
-[Supply and Demand](http://www.investopedia.com/university/economics/economics3.asp)
-[Supply and Demand Curves](https://www.mindtools.com/pages/article/newSTR_69.htm)
-[Demand Elasticity](https://en.wikipedia.org/wiki/Price_elasticity_of_demand)
-[Demand Curves](http://market.subwiki.org/wiki/Demand_curve)
-[Surge Pricing](https://newsroom.uber.com/2012/01/take-a-walk-through-surge-pricing/)
-[Dynamic Pricing](http://abovethecrowd.com/2014/03/11/a-deeper-look-at-ubers-dynamic-pricing-model/)
-[Uber Price Drop](http://www.nbcbayarea.com/news/local/UberX-Prices-Drop-15-Percent-Around-Bay-Area-Except-San-Francisco-320242821.html)
-[Capitalism](https://en.wikipedia.org/wiki/Capitalism)
-[Bourgeoisie](http://www.bl.uk/learning/histcitizen/21cc/utopia/methods1/bourgeoisie1/bourgeoisie.html)
-[Slowdown](https://en.wikipedia.org/wiki/Slowdown)
-[Strike Action](https://en.wikipedia.org/wiki/Strike_action)
+
+### [Supply and Demand](https://en.wikipedia.org/wiki/Supply_and_demand)
+
+### [Supply and Demand](http://www.laits.utexas.edu/~anorman/05/qq2.html)
+
+### [Supply and Demand](http://www.investopedia.com/university/economics/economics3.asp)
+
+### [Supply and Demand Curves](https://www.mindtools.com/pages/article/newSTR_69.htm)
+
+### [Demand Elasticity](https://en.wikipedia.org/wiki/Price_elasticity_of_demand)
+
+### [Demand Curves](http://market.subwiki.org/wiki/Demand_curve)
+
+### [Surge Pricing](https://newsroom.uber.com/2012/01/take-a-walk-through-surge-pricing/)
+
+### [Dynamic Pricing](http://abovethecrowd.com/2014/03/11/a-deeper-look-at-ubers-dynamic-pricing-model/)
+
+### [Uber Price Drop](http://www.nbcbayarea.com/news/local/UberX-Prices-Drop-15-Percent-Around-Bay-Area-Except-San-Francisco-320242821.html)
+
+### [Capitalism](https://en.wikipedia.org/wiki/Capitalism)
+
+### [Bourgeoisie](http://www.bl.uk/learning/histcitizen/21cc/utopia/methods1/bourgeoisie1/bourgeoisie.html)
+
+### [Slowdown](https://en.wikipedia.org/wiki/Slowdown)
+
+### [Strike Action](https://en.wikipedia.org/wiki/Strike_action)
