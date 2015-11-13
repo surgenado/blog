@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " Driver Coordination?"
+title:  "Driver Coordination?"
 date:   2015-11-05 14:30:55 -0800
 categories: markets
 published: true
