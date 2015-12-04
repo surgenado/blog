@@ -45,6 +45,7 @@ published: true
   - [ ] Add Disqus to surge.html
   - [x] Script for custom calendar times
   - [ ] Script to update the surgenado list
+  - [ ] Modify Update_Posts to be absolute so if it fails to run it sets the posts to their proper daily configuration.
 5. /blog
   - [ ] gem update
   - [ ] Add variable for Analytics on config.yml
