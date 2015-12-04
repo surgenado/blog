@@ -3,7 +3,7 @@ layout: post
 title:  "What does this all mean?"
 date:   2015-11-14
 categories: markets
-published: true
+published: false
 ---
 ## Given the arguments laid out in previous posts, the following criteria are pertinent to drivers:
 1. If Drivers systematically coordinate logoffs, collectively they would generate a similar pressure as a storm on the pricing algorithm effecting an increase the price relative to the demand level.

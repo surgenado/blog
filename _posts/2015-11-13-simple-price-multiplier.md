@@ -3,7 +3,7 @@ layout: post
 title:  "Demonstration of a simple price multiplier spreadsheet"
 date:   2015-11-13
 categories: markets
-published: true
+published: false
 ---
 ## Basic price multiplier
  `income @ total provided supply = Price * (additional supply + standard supply)`

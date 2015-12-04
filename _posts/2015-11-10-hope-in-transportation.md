@@ -3,7 +3,7 @@ layout: post
 title:  "Is there any way to improve the situation for driver in the transportation network ?"
 date:   2015-11-10
 categories: markets
-published: true
+published: false
 ---
 ### Yes. There is one market force that so far has not emerged in consistent force.
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Surge can be used to work less for the same income"
 date:   2015-11-12
 categories: markets
-published: true
+published: false
 ---
 ## All that's required is coordination amongst drivers, which is why Uber works so hard to keep its drivers in a competitive mindset.
 1. TNCs are a marketplace.

@@ -3,7 +3,7 @@ layout: post
 title:  "A Dystopian View of the Future of Transportation"
 date:   2015-11-09
 categories: markets
-published: true
+published: false
 ---
 #### If you haven't yet, please read [The Evolution of the Urban Transportation Market](urban-transportation.html) for context.
 
