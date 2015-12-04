@@ -5,6 +5,8 @@ date:   2015-11-21 14:30:55 -0800
 categories: todo
 published: true
 ---
+1. AWS
+- [ ] setup jekyll hosting
 2. recapcha
 - [ ] setup
 1. Disqus
@@ -29,7 +31,7 @@ published: true
   - [ ] Add Analytics
   - [ ] Add Share buttons
 4. /city
-  - [ ] gem update
+  - [x] gem update
   - [ ] center Time Slot buttons
   - [ ] index.html
   - [x] Add questions
