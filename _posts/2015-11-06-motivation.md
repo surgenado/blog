@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "There is a difference between a market and a human"
-date:   2015-11-05 14:30:55 -0800
+date:   2015-11-06
 categories: markets
 published: true
 ---
-## There is this graph explaining the incentivizing of additional supply through price increases.
+## This graph is often used to explain the incentivizing effect of elevated price on "suppliers".
 
 ![Simple Supply and Demand](/blog/img/start.png){: .center-image }
 
-## But what about the effect of price decreases on "the supply"?
+## But what is the effect of price decreases on "supply"?
 
 1. The above graph is a simple commodities market graph.
 1. It Describes the motives of businesses.

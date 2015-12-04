@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The mechanics of variable pricing in networked markets"
-date:   2015-11-05 13:20:55 -0800
+date:   2015-11-05
 categories: markets
 published: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Demonstration of basic price multiplier spreadsheet"
-date:   2015-11-05 13:20:55 -0800
+title:  "Demonstration of a simple price multiplier spreadsheet"
+date:   2015-11-13
 categories: markets
 published: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Is there any way to improve the situation for driver in the transportation network ?"
-date:   2015-11-05 14:20:55 -0800
+date:   2015-11-10
 categories: markets
 published: true
 ---

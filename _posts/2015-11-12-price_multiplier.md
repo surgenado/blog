@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "How surge lets you work less for the same income"
-date:   2015-11-05 14:30:55 -0800
+title:  "Surge can be used to work less for the same income"
+date:   2015-11-12
 categories: markets
 published: true
 ---
-
+## All that's required is coordination amongst drivers, which is why Uber works so hard to keep its drivers in a competitive mindset.
 1. TNCs are a marketplace.
 2. Drivers are suppliers within that market.
 2. The amount suppliers get paid varies based on demand.
@@ -25,7 +25,7 @@ published: true
 4. Uber requires bigger signon bonuses because the pricing algorithm is designed to satiate demand and maintain supply.
 4. Therefore a decrease in supply should have a greater effect than an increase in demand on the pricing algorithm.
 
-## surgenado applies that backward pressure on the system increasing relative income.
+## The Surgenado method applies that backward pressure on the system increasing relative income.
 
 ## Work 1% less. if you work 40, work 39.5. if you work 60, work 59.25.
 

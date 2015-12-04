@@ -32,10 +32,10 @@ published: true
   - [ ] Add Share buttons
 4. /city
   - [x] gem update
-  - [ ] center Time Slot buttons
-  - [ ] index.html
+  - [x] center Time Slot buttons
+  - [x] index.html
   - [x] Add questions
-  - [ ] add corresponding pages with appropriate welcome text
+  - [x] add corresponding pages with appropriate welcome text
   - [ ] add recapcha to index.html
   - [ ] add recapcha to surge.html
   - [ ] Add variable for Analytics on config.yml

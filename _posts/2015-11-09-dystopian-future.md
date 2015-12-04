@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Dystopian View of the Future of Transportation"
-date:   2015-11-05 13:40:55 -0800
+date:   2015-11-09
 categories: markets
 published: true
 ---

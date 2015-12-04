@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Evolution of the Urban Transportation Market"
-date:   2015-11-05 13:30:55 -0800
+date:   2015-11-08
 categories: markets
 published: true
 ---

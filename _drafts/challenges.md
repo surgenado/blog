@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Challenges"
-date:   2015-11-05 14:30:55 -0800
+date:   2015-11-30
 categories: markets
 published: true
 ---

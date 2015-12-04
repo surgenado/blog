@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The market dynamics of transportation networks"
-date:   2015-11-05 13:20:55 -0800
+date:   2015-11-07
 categories: markets
 published: true
 ---
